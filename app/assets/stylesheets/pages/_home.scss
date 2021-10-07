@@ -1,1 +1,18 @@
 // Specific CSS for your home-page
+body {
+  background-color: rgb(26, 25, 25);
+}
+
+h1, h2, h3, h4, h5, p {
+  color: rgb(241, 241, 241)
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color:rgb(228, 228, 228);
+}
